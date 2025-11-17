@@ -134,7 +134,7 @@ You control your account and content at any time:
 - Deleting your account removes your notes, tags, templates, attachments, and device tokens from active systems within a reasonable period (usually within 30 days) unless we must retain certain records for legal obligations.
 - Signing out or uninstalling the app removes the locally cached data stored in SQLite on that device. To clear offline copies on other devices, sign out or uninstall Autonote there as well.
 
-You can also delete individual notes or attachments directly inside the app. For additional help, email `support@autonote.io`.
+You can also delete individual notes or attachments directly inside the app. For additional help, or to request deletion of your account and associated data if you no longer have access to the app, email us at `support@autonote.io`.
 
 ---
 
